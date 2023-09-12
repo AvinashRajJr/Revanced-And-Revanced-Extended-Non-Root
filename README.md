@@ -6,9 +6,9 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 <div align="center">
   
-[![Image of https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/View-Counter/blob/main/repos/Revanced-And-Revanced-Extended-Non-Root_609906498/svg/count.svg)](https://github.com/FiorenMas/View-Counter)
+[![Image of https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/View-Counter/blob/main/repos/Revanced-And-Revanced-Extended-Non-Root_609906498/svg/count.svg)](https://github.com/FiorenMas/View-Counter)
 [![CodeFactor](https://www.codefactor.io/repository/github/fiorenmas/revanced-and-revanced-extended-non-root/badge/main)](https://www.codefactor.io/repository/github/fiorenmas/revanced-and-revanced-extended-non-root/overview/main)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ea7a68dbfe8b4429ad8f84e49d3a4173)](https://app.codacy.com/gh/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ea7a68dbfe8b4429ad8f84e49d3a4173)](https://app.codacy.com/gh/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/fiorenmas/Revanced-And-Revanced-Extended-Non-Root/patch.yml)
 [![](https://img.shields.io/badge/Telegram-2CA5E0)](https://t.me/fioren374)
   
@@ -22,7 +22,7 @@ If you want to use the YouTube or YouTube Music app, you need to download and in
 
 All the code is open-source, clearly, and the APK files used for patching are downloaded from a trusted site, so it is totally safe for you to use.
 
-If you are an advanced user and you want to use custom patches for patching apps, you should read the [Wiki](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/wiki/Frequently-Asked-Questions#q-how-do-i-use-this-repository-for-patching-my-own-app)
+If you are an advanced user and you want to use custom patches for patching apps, you should read the [Wiki](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/wiki/Frequently-Asked-Questions#q-how-do-i-use-this-repository-for-patching-my-own-app)
 
 ---
 <h1 align="center">
@@ -33,51 +33,51 @@ Download
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-revanced.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-revanced.apk)
 
-[Arm64-v8a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-arm64-v8a-revanced.apk)
+[Arm64-v8a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-arm64-v8a-revanced.apk)
 
-[Armeabi-v7a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-armeabi-v7a-revanced.apk)
+[Armeabi-v7a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-armeabi-v7a-revanced.apk)
 
-[x86](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86-revanced.apk)
+[x86](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86-revanced.apk)
 
-[x86_64](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86_64-revanced.apk)
+[x86_64](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86_64-revanced.apk)
 
 ### [Revanced Extended:](https://github.com/inotia00/revanced-patches/)
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-revanced-extended.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-revanced-extended.apk)
 
-[Arm64-v8a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-arm64-v8a-revanced-extended.apk)
+[Arm64-v8a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-arm64-v8a-revanced-extended.apk)
 
-[Armeabi-v7a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-armeabi-v7a-revanced-extended.apk)
+[Armeabi-v7a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-armeabi-v7a-revanced-extended.apk)
 
-[x86](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86-revanced-extended.apk)
+[x86](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86-revanced-extended.apk)
 
-[x86_64](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86_64-revanced-extended.apk)
+[x86_64](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86_64-revanced-extended.apk)
 
 ### [ReX:](https://github.com/YT-Advanced/ReX-patches)
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-ReX.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-ReX.apk)
 
-[Arm64-v8a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-arm64-v8a-ReX.apk)
+[Arm64-v8a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-arm64-v8a-ReX.apk)
 
-[Armeabi-v7a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-armeabi-v7a-ReX.apk)
+[Armeabi-v7a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-armeabi-v7a-ReX.apk)
 
-[x86](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86-ReX.apk)
+[x86](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86-ReX.apk)
 
-[x86_64](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86_64-ReX.apk)
+[x86_64](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86_64-ReX.apk)
 
 ### [Revanced Extended For Android 6 & 7:](https://github.com/kitadai31/revanced-patches-android6-7/tree/revanced-extended)
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-revanced-extended-android-6-7.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-revanced-extended-android-6-7.apk)
 
-[Arm64-v8a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-arm64-v8a-revanced-extended-android-6-7.apk)
+[Arm64-v8a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-arm64-v8a-revanced-extended-android-6-7.apk)
 
-[Armeabi-v7a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-armeabi-v7a-revanced-extended-android-6-7.apk)
+[Armeabi-v7a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-armeabi-v7a-revanced-extended-android-6-7.apk)
 
-[x86](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86-revanced-extended-android-6-7.apk)
+[x86](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86-revanced-extended-android-6-7.apk)
 
-[x86_64](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86_64-revanced-extended-android-6-7.apk)
+[x86_64](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-x86_64-revanced-extended-android-6-7.apk)
 
 ---
 
@@ -85,21 +85,21 @@ Download
 
 ### Revanced:
 
-[Arm64-v8a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-arm64-v8a-revanced.apk)
+[Arm64-v8a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-arm64-v8a-revanced.apk)
 
-[Armeabi-v7a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-armeabi-v7a-revanced.apk)
+[Armeabi-v7a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-armeabi-v7a-revanced.apk)
 
 ### Revanced Extended:
 
-[Arm64-v8a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-arm64-v8a-revanced-extended.apk)
+[Arm64-v8a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-arm64-v8a-revanced-extended.apk)
 
-[Armeabi-v7a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-armeabi-v7a-revanced-extended.apk)
+[Armeabi-v7a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-armeabi-v7a-revanced-extended.apk)
 
 ### [ReX:](https://github.com/YT-Advanced/ReX-patches)
 
-[Arm64-v8a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-arm64-v8a-ReX.apk)
+[Arm64-v8a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-arm64-v8a-ReX.apk)
 
-[Armeabi-v7a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-armeabi-v7a-ReX.apk)
+[Armeabi-v7a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-armeabi-v7a-ReX.apk)
 
 ---
 
@@ -122,35 +122,35 @@ Download
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://play.google.com/store/apps/details?id=com.twitter.android)
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitter-revanced.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitter-revanced.apk)
 
 ---
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://play.google.com/store/apps/details?id=com.instagram.android)
 
-[Arm64-v8a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-arm64-v8a-revanced.apk)
+[Arm64-v8a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-arm64-v8a-revanced.apk)
 
-[Armeabi-v7a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-armeabi-v7a-revanced.apk)
+[Armeabi-v7a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/instagram-armeabi-v7a-revanced.apk)
 
 ---
 
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
-[Arm64-v8a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/messenger-arm64-v8a-revanced.apk)
+[Arm64-v8a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/messenger-arm64-v8a-revanced.apk)
 
-[Armeabi-v7a](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/messenger-armeabi-v7a-revanced.apk)
+[Armeabi-v7a](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/messenger-armeabi-v7a-revanced.apk)
 
 ---
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tiktok-revanced.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tiktok-revanced.apk)
 
 ---
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitch-revanced.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitch-revanced.apk)
 
 ---
 
@@ -158,29 +158,29 @@ Download
 
 ### Revanced:
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-revanced.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-revanced.apk)
 
 ### Revanced Extended:
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-revanced-extended.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-revanced-extended.apk)
 
 ---
 
 [![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](https://play.google.com/store/apps/details?id=com.adobe.lrmobile)
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/lightroom-revanced.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/lightroom-revanced.apk)
 
 ---
 
 ### [Pixiv:](https://play.google.com/store/apps/details?id=jp.pxv.android)
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/pixiv-revanced.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/pixiv-revanced.apk)
 
 ---
 
 ### [Windy:](https://play.google.com/store/apps/details?id=co.windyapp.android)
 
-[All Architecture](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/windy-revanced.apk)
+[All Architecture](https://github.com/AvinashRajJr/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/windy-revanced.apk)
 
 ---
 
